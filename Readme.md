@@ -1,6 +1,7 @@
 # Belle's math stuff
 
 * SCH: Schaum's Outlines Elementary Algebra
+* A+: means A-plus notes for beginning algebra
 
 | Assigned | Assignment | Due
 |------|:-----------|------|
@@ -10,3 +11,5 @@
 |11/1/22 | SCH pg 93: 5.1abc, 5.2ab, pg 94: 6.1abc, 6.2abc | 11/1/22 
 |11/2/22 | SCH pg 96 7.4abc, 7.5abc, 7.6ab | 11/2/22
 |11/3/22 | SCH pgs 96-97: 8.1abcd, 8.2abcd, 8.4abcd, 8.5a | 11/4/22
+|11/4/22 | [Knock code assignment](https://docs.google.com/document/d/1U06XcsFspu8KAN_23WcwOCW-9xS24IluFGwGOy32qQg/edit?usp=sharing)| 11/4/22
+|11/7/22 | A+: 11-1: 1-13, 37-41 | 11/7/22

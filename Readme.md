@@ -15,3 +15,10 @@
 |11/7/22 | A+: 11-1: 1-13, 37-41 | 11/7/22
 |11/15/22 | A+: 11-2: 1-9, 41-43, 47-49, TP 44, 45 | 11/17/22
 |11/15/22 | A+: 11-3: 1-11, 37-45 | 11/17/22
+|11/22/22 | A+: 11-5: 1-7, 16-29, TP 35, 37, 39
+|12/5/22 | Pythagorean Proof 1: 2 pages in your notebook, left side the triangles with areas, right side the cut out pieces to make the larger square.  The image is available [here](../2019/math/PythagoreanProof1.png)
+| 12/5/22 | Pythagorean Proof 2: 2 pages in your notebook.  The left side is the 4 triangles, the right side are the triangles making a larger square.  Below the square put the algebra steps of the proof.  The image is available [here](../2019/math/PythagoreanProof2.png)
+|12/7/22 | Inverse functions [Assignment](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit)
+|12/9/22 | [Algebra tactics review worksheet](https://docs.google.com/document/d/1cQh67F-nnRg148IahyY4XH8k68JfRtkM8IbvnW79FLI/edit?usp=sharing)
+|12/12/22 | No soln/infinite[Assignment](https://paper.dropbox.com/doc/No-solution-infinite-number-or-one--BYVyXcv3HXj5Vhw~OOJ4HtVVAQ-xgcEh4vffFxoMB2rJyDiU)
+

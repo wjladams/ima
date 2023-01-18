@@ -21,4 +21,4 @@
 |12/7/22 | Inverse functions [Assignment](https://docs.google.com/document/d/1QNPmsbSLnEI6cd8QfnJRde7OSwZOBHy_oVIJUfIiuuc/edit)
 |12/9/22 | [Algebra tactics review worksheet](https://docs.google.com/document/d/1cQh67F-nnRg148IahyY4XH8k68JfRtkM8IbvnW79FLI/edit?usp=sharing)
 |12/12/22 | No soln/infinite[Assignment](https://paper.dropbox.com/doc/No-solution-infinite-number-or-one--BYVyXcv3HXj5Vhw~OOJ4HtVVAQ-xgcEh4vffFxoMB2rJyDiU)
-
+| 1/17/23 | 7-1:	1/31/20	1-19o, 27-29,31-40,51-53, time permitting 61-63, 66-70 | 1/19/23
